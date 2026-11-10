@@ -253,4 +253,4 @@ This repository serves as the official landing page for Ad-Aware Game Edition. T
 **Get the most recent version of Ad-Aware Game Edition today!**
 
 ---
-**Last updated:** 2026-11-10 09:10:07 UTC
+**Last updated:** 2026-11-10 17:27:17 UTC
